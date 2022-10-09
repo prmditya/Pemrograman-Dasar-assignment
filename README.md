@@ -1,1 +1,1 @@
-# Repository university assignment
+# Repository programming assignment
