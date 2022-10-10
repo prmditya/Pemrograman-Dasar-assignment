@@ -1,10 +1,11 @@
 #include <iostream>
 #include <iomanip>
 
-using namespace std;
+ using std::cout; std::cin; using std::endl;
 
 int main(){
   int jamKerja = 0, totalUpah = 0, totalLembur = 0, totalDenda = 0, jamSelisih = 0, totalGaji = 0;
+  cout << jamKerja << endl;
   cout << "Jam kerja  : ";
   cin >> jamKerja;
 
