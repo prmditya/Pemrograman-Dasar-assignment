@@ -7,8 +7,8 @@ int main(){
   int jamKerja = 0, totalUpah = 0, totalLembur = 0, totalDenda = 0, jamSelisih = 0, totalGaji = 0;
   cout << "Jam kerja  : ";
   cin >> jamKerja;
-  
-  if (jamKerja > 50){
+
+  if (jamKerja > 50){ 
     if (jamKerja > 60){
       jamSelisih = jamKerja - 60;
       totalLembur = jamSelisih * 6000;
@@ -29,3 +29,4 @@ int main(){
   cout << "Total \t= Rp. " << setw(7) << totalGaji << endl;
   return 0;
 }
+
