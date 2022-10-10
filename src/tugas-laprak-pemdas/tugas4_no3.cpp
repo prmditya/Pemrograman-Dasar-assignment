@@ -27,6 +27,6 @@ int main(){
   cout << "Lembur\t= Rp. " << setw(7) << totalLembur<< endl;
   cout << "Denda \t= Rp. " << setw(7) << totalDenda << endl;
   cout << "-----------------------\n";
-  cout << "Total \t= Rp. " << totalGaji << endl;
+  cout << "Total \t= Rp. " << setw(7) << totalGaji << endl;
   return 0;
 }
