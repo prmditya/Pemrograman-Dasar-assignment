@@ -1,11 +1,10 @@
 #include <iostream>
 #include <iomanip>
 
- using std::cout; std::cin; using std::endl;
+using std::cout; using std::cin; using std::endl; using std::setw;
 
 int main(){
   int jamKerja = 0, totalUpah = 0, totalLembur = 0, totalDenda = 0, jamSelisih = 0, totalGaji = 0;
-  cout << jamKerja << endl;
   cout << "Jam kerja  : ";
   cin >> jamKerja;
 
