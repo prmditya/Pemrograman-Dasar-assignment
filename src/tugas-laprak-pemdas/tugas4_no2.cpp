@@ -1,7 +1,9 @@
 #include <iostream>
 #include <iomanip>
 
-using std::cout; using std::cin; using std::setprecision;
+using std::cin;
+using std::cout;
+using std::setprecision;
 
 int main(){
   float imt, beratBadan, tinggiBadan;
@@ -14,9 +16,9 @@ int main(){
 
   if (imt > 30){
     cout << "Termasuk kegemukan\n";
-  }else if(imt > 25){
+  }else if (imt > 25){
     cout << "Termasuk gemuk\n";
-  }else if(imt > 18.5){
+  }else if (imt > 18.5){
     cout << "Termasuk normal\n";
   }else{
     cout << "Termasuk kurus\n";
