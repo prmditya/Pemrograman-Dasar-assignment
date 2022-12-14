@@ -11,10 +11,10 @@ saya di Universitas Brawijaya - Fakultas Ilmu Komputer - Teknik Komputer
 
 ## Cara menggunakan Source Code
 
-- Kalian dapat menklik [Download](https://github.com/prmdtya/programming-assignment/archive/refs/heads/main.zip)
-- Atau kalian juga bisa mengakses Source Codenya [disini](https://github.com/prmdtya/programming-assignment/tree/main/src)
+- Kalian dapat menklik [Download](https://github.com/prmditya/Pemrograman-Dasar-assignment/archive/refs/heads/main.zip)
+- Atau kalian juga bisa mengakses Source Codenya [disini](https://github.com/prmditya/Pemrograman-Dasar-assignment/tree/main/src)
 
-  Terdapat 2 folder [tugas-pemdas](https://github.com/prmdtya/programming-assignment/tree/main/src/tugas-laprak-pemdas) dan [tugas-laprak-pemdas](https://github.com/prmdtya/programming-assignment/tree/main/src/tugas-laprak-pemdas), kalian dapat mengakses keduanya.
+  Terdapat 2 folder [tugas-pemdas](https://github.com/prmditya/Pemrograman-Dasar-assignment/tree/main/src/tugas-laprak-pemdas) dan [tugas-laprak-pemdas](https://github.com/prmditya/Pemrograman-Dasar-assignment/tree/main/src/tugas-laprak-pemdas), kalian dapat mengakses keduanya.
 
 ## Copyright
 
