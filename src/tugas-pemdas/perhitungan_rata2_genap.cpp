@@ -7,7 +7,7 @@ int main() {
 	float rata2, totalBil;
 	
 	cout << " PROGRAM PENGHITUNG RATA - RATA \n";
-	cout << "          BILANGAN GENAP \n";
+	cout << "         BILANGAN GENAP \n";
 	cout << "--------------------------------\n";
 
 	// untuk menginput banyaknya data(banyakBil)
